@@ -3,7 +3,7 @@
 # Run `pod lib lint flutter_barcode_scan.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_barcode_scan'
+  s.name             = 'flutter_scan_barcode'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin supports barcode scanning on both Android and iOS.'
   s.description      = <<-DESC
