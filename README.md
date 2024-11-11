@@ -3,7 +3,7 @@
 
 </div>
 
-<h1 align="center">Flutter_barcode_scan</h1>
+<h1 align="center">flutter_scan_barcode</h1>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
